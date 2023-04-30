@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj": {}
+    "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj": {
+    "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj",
+        "projectUniqueName": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj",
         "projectName": "A11_Movie_Library_Convert_to_Database",
-        "projectPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj",
+        "projectPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj",
         "packagesPath": "C:\\Users\\051686\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database\\obj\\",
+        "outputPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\A11_Movie_Library_Convert_to_Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\051686\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj": {
-                "projectPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj"
+              "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj": {
+                "projectPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj": {
+    "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj",
+        "projectUniqueName": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj",
         "projectName": "MovieLibraryEntities",
-        "projectPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj",
+        "projectPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\MovieLibraryEntitiesReal\\MovieLibraryEntities.csproj",
         "packagesPath": "C:\\Users\\051686\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\MovieLibraryEntitiesReal\\obj\\",
+        "outputPath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\MovieLibraryEntitiesReal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\051686\\AppData\\Roaming\\NuGet\\NuGet.Config",

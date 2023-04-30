@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O8zbrLLog7EyucYNP6/SChs7xTpkV2t+zCqKu0yNZ7vgNRKtDnCHyMCBoM69najurVMF+Y0MoEDzabueX5t3hg==",
+  "dgSpecHash": "QPznMckV2S0aQ8h74GMHi6DiTZvfuYeyDc2JsK30bKDVtGSP5lan8UZaL4639r0FhSRX+PETAIF5TD9dwA/OIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj",
+  "projectFilePath": "C:\\Users\\051686\\RiderProjects\\A11_Movie_Library_Convert_to_Database_Recommit\\A11_Movie_Library_Convert_to_Database\\A11_Movie_Library_Convert_to_Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\051686\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\051686\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

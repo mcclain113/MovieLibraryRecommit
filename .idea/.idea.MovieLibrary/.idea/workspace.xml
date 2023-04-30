@@ -5,34 +5,84 @@
     <projectFile>A11_Movie_Library_Convert_to_Database/A11_Movie_Library_Convert_to_Database.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9fa7563-ce95-4995-9531-aef98f21993a" name="Changes" comment="" />
+    <list default="true" id="521fcb2b-8d7b-4363-8526-41f69543455b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/MovieLibrary_20024_bmcclain.ZLGfTQ/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/NT_SERVICE_SQLServerReportingServices.XISNGw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/RSExecRole.CJpGzw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/dataSources/e287189f-4c5c-43dd-8a57-846d61509ee9/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MovieLibrary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/A11_Movie_Library_Convert_to_Database.dll" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/A11_Movie_Library_Convert_to_Database.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/A11_Movie_Library_Convert_to_Database.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/A11_Movie_Library_Convert_to_Database.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/MovieLibraryEntities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/MovieLibraryEntities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/MovieLibraryEntities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/MovieLibraryEntities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/bin/Debug/net7.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/A11_Movie_Library_Convert_to_Database.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/A11_Movie_Library_Convert_to_Database.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.dll" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/Debug/net7.0/A11_Movie_Library_Convert_to_Database.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/A11_Movie_Library_Convert_to_Database/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLibrary/obj/Debug/net7.0/MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLibrary/obj/Debug/net7.0/MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLibrary/obj/Debug/net7.0/MovieLibrary.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLibrary/obj/Debug/net7.0/MovieLibrary.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLibrary/obj/Debug/net7.0/MovieLibrary.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLibrary/obj/Debug/net7.0/MovieLibrary.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLibrary/obj/MovieLibrary.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLibrary/obj/MovieLibrary.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLibrary/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLibrary/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLibrary/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLibrary/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLibrary/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLibrary/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLibrary/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLibrary/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MovieLibraryEntitiesReal/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2OZezecrRYXTZ0iVWU49UvH6QbF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2PA9Ze8o9Ji1kBRe1mtTpMO9owJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="sqlserver&#10;derby&#10;sqlserver.localdb" />
+    <property name="DatabaseDriversLRU" value="sqlserver" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -79,32 +129,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b9fa7563-ce95-4995-9531-aef98f21993a" name="Changes" comment="" />
-      <created>1681772797772</created>
+      <changelist id="521fcb2b-8d7b-4363-8526-41f69543455b" name="Changes" comment="" />
+      <created>1682889079156</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681772797772</updated>
-      <workItem from="1681772804173" duration="7133000" />
-      <workItem from="1681780099549" duration="2040000" />
-      <workItem from="1682187923246" duration="92000" />
-      <workItem from="1682188058583" duration="10911000" />
-      <workItem from="1682200320666" duration="296000" />
+      <updated>1682889079156</updated>
+      <workItem from="1682889089269" duration="665000" />
     </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <created>1682199667165</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1682199667165</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -119,7 +157,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
